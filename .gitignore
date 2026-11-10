@@ -1,0 +1,9 @@
+# 个人/本地数据，不进仓库
+.workbuddy/
+github_pat.txt
+*.pat
+.env
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
